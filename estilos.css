@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Lora:ital@1&family=Sansita+Swashed:wght@300&display=swap');
+
+header {
+    background-image: url("img/fondo_header.jpg");
+}
+
+body {
+    background-image: url("img/fondo.png");
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 200%;
+}
+
+h3 {
+    font-family: 'Sansita Swashed', cursive;
+    color: whitesmoke;
+}
+
+li {
+    font-family: 'Libre Baskerville', serif;
+    color: lightsteelblue;
+    text-align: justify;
+}
+
+#imagen_perfil {
+    border-radius: 40%;
+    margin-left: 10%;
+    margin-top: -4%;
+    border-color: black;
+}
+
+.container {
+    margin-top: 3%;
+}
+
+#link {
+    text-decoration: none;
+}
